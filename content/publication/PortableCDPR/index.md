@@ -1,7 +1,7 @@
 ---
 title: "A Portable Cable-Suspended Parallel Robot and Its Applications in Indoor Inspection"
 authors:
-- 胡咏杰
+- YongjieHu
 - Hang Liu
 - Han Yuan
 date: "2024-09-27"

@@ -4,7 +4,7 @@ title: Yongjie Hu
 
 # Username (this should match the folder name)
 authors:
-- 胡咏杰
+- YongjieHu
 
 # Is this the primary user of the site?
 superuser: true

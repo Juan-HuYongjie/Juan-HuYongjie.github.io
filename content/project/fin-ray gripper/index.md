@@ -61,7 +61,6 @@ slides: ""
     At the same position on the flexible finger (taking Node2 as an example), weights ranging from 50g to 500g are applied incrementally in steps of 50g. The coordinates of the finger node are measured using a camera, allowing the stiffness at the loading node to be calculated. The measurement is repeated for the finger with different inserted rods. A comparison of the finger deformation under a 500g load at Node 2 is presented in Fig.2, and the corresponding stiffness measurement results are shown in Fig.3. The results demonstrate that with different inserted rods, the finger can achieve a wide range of variable stiffness.
 </p>
 
-
 <figure>
     <img src="figures/measure.png" alt="measure" style="width:65%">
     <figcaption style="font-size:16px">Fig.2. Comparison of the finger deformation under a 500g load at Node 2 with different inserted rods.

@@ -67,7 +67,7 @@ slides: ""
 </figure>
 
 <figure>
-    <img src="figures/hhh.png" alt="stiffness" style="width:85%">
+    <img src="figures/stiffness.png" alt="stiffness" style="width:85%">
     <figcaption style="font-size:16px">Fig.3 Results of stiffness measurement at Node 2.
 </figure>
 

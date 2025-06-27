@@ -15,7 +15,7 @@ role: M.Eng in Mechanical Engineering
 # Organizations/Affiliations
 organizations:
 - name: Harbin Institute of Technology (Shenzhen)
-  url: "en.hitsz.edu.cn"
+  url: "https://www.hitsz.edu.cn/index.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include cable-driven parallel robots and soft grippers.

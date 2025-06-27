@@ -1,0 +1,17 @@
+<!-- 页脚内容定制 -->
+{{ partial "page_edit" . }}
+<!-- 标签 -->
+<!-- {{ partial "tags" . }} -->
+<!-- 联系方式LOGO -->
+<!-- {{ partial "share" . }} -->
+{{ partial "page_author" . }}
+{{ partial "comments" . }}
+
+{{ if site.Params.section_pager }}
+<div class="article-widget">
+  {{ partial "section_pager" . }}
+</div>
+{{ end }}
+
+<!-- 关联页面 -->
+<!-- {{ partial "page_related" . }} -->

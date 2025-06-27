@@ -1,0 +1,21 @@
+# Theme metadata
+name = "Dark"
+
+# Is theme light or dark?
+light = false
+
+# Primary
+primary = "rgb(140, 200, 255)"
+
+# Menu
+menu_primary = "rgb(48, 48, 48)"
+menu_text = "rgba(255, 255, 255, 0.8)"
+menu_text_active = "rgba(140,200,255,1)"
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "rgb(32, 32, 32)"
+home_section_even = "rgb(32, 32, 32)"
+background = "rgb(32, 32, 32)"
+
+font = "minimal"

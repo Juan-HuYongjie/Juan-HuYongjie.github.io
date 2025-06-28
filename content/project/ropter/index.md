@@ -1,6 +1,6 @@
 ---
 title: Ropter
-summary: A morphing aerial-ground robot.
+summary: A morphable aerial-ground robot.
 tags:
 - Other
 date: "2020-11-06T00:00:00Z"
@@ -28,3 +28,6 @@ url_video: ""
 slides: ""
 ---
 
+*To be updated...*
+
+{{< bilibili BV1sK4y1j7Qt >}}

@@ -18,10 +18,10 @@
   url = "project/"
   weight = 30
 
-[[main]]
-  name = "CV"
-  url = "files/CV_Yongjie_Hu.pdf"
-  weight = 40
+# [[main]]
+#   name = "CV"
+#   url = "files/CV_Yongjie_Hu.pdf"
+#   weight = 40
 
 # [[main]]
 #   name = "Posts"
